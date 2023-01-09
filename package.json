@@ -24,7 +24,7 @@
   "homepage": "https://github.com/aaronbushnell/gifs#readme",
   "prettier": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy": "^1.0.2",
     "npm-run-all": "^4.1.5",
     "prettier": "2.0.5",
     "rollup": "^2.23.1",
